@@ -11,7 +11,7 @@ Focused on:
 Founded and maintained by @trapadulli.
 
 Core repositories:
-- simtrade-core — research engine
-- simtrade-backtests — strategy experiments
+- https://github.com/SimTrade/Backtester
+- https://github.com/SimTrade/Ingest
 
 This organization hosts exploratory and production-grade quant tooling.
