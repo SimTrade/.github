@@ -25,6 +25,6 @@ This organization hosts production-grade and exploratory tooling for strategy de
 - **Notifications:** Twilio SMS
 - **Scheduling:** Windows Task Scheduler
 
-Founded and maintained by [@trapadulli](https://github.com/trapadulli).
+Founded and maintained by Stephan Vanwoezik [@trapadulli](https://github.com/trapadulli).
 
 This organization hosts exploratory and production-grade quant tooling.
